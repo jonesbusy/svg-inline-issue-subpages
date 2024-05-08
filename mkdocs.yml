@@ -1,11 +1,6 @@
 site_name: Test
 docs_dir: docs
 
-nav:
-  - Articles: 'articles'
-
 plugins:
-  - techdocs-core
-  - include_dir_to_nav
   - kroki
   - inline-svg
